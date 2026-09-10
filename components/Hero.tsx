@@ -22,7 +22,7 @@ export default function Hero() {
             </h1>
             <p className="max-w-[50ch] text-lg text-muted-foreground md:text-xl text-pretty leading-relaxed">
               We simplify the complex bureaucracy of working and studying
-              abroad. Join thousands finding their next chapter in Germany, USA and UK.
+              abroad. Join thousands finding their next chapter in Germany and Europe.
             </p>
 
             <div className="mt-12 hidden lg:block">
